@@ -2,7 +2,7 @@ Readme for Extended Vector Inclination Method (EVIM) for Inferring Detailed Slip
 
 Start with the matlab script "EVM_EXAMPLE.m" to invert landslide 
 thickness as described in 
-An extended vector inclination method for inferring detailed slip surfaces beneath landslides from SAR and optical satellite remote sensing image
+"An extended vector inclination method for inferring detailed slip surfaces beneath landslides from SAR and optical satellite remote sensing image"
 
 
 Acknowledgments:
