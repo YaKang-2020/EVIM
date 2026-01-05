@@ -4,6 +4,7 @@ Start with the matlab script "EVM_EXAMPLE.m" to invert landslide
 thickness as described in 
 "An extended vector inclination method for inferring detailed slip surfaces beneath landslides from SAR and optical satellite remote sensing image"
 
+Before starting, the CVX package should be installed.
 
 Acknowledgments:
 We express our gratitude to Adam M. Booth for selflessly making the LSD_tools package (a mass conservation method program) publicly available. 
